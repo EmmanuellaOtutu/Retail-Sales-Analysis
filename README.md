@@ -1,3 +1,3 @@
 # Retail-Sales-Forecasting
 
-Retail Sales Analysis for wine sales
+Retail Sales forecasting for wine sales
